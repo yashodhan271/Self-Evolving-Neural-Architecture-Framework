@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SENA Banner](https://raw.githubusercontent.com/yashodhan271/Self-Evolving-Neural-Architecture-Framework/main/docs/images/banner.png)
+![SENA Banner](docs/images/banner.svg)
 
 [![Java Version](https://img.shields.io/badge/Java-11%2B-orange.svg)](https://adoptopenjdk.net/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -102,7 +102,7 @@ for (int generation = 0; generation < MAX_GENERATIONS; generation++) {
 ## 🔬 Technical Architecture
 
 <div align="center">
-<img src="docs/images/technical-architecture.png" alt="Technical Architecture" width="800"/>
+<img src="docs/images/technical-architecture.svg" alt="Technical Architecture" width="800"/>
 </div>
 
 ## 📈 Evolution Process
