@@ -143,12 +143,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- 📧 Email: your.email@example.com
-- 🌐 Website: https://your-website.com
+- 📧 Email: yashadvankar271@gmail.com
+- 🌐 Website: 
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ---
 
 <div align="center">
-<sub>Built with ❤️ by [Your Name]</sub>
+<sub>Built with ❤️ by Yashodhan</sub>
 </div>
